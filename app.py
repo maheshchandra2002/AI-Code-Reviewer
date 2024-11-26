@@ -4,7 +4,7 @@ import re
 from typing import Dict, Tuple
 
 # Set your Gemini API key directly
-GEMINI_API_KEY = "AIzaSyDkVfU8oM4NFFxGPVze2VlgJfTMKfi41QU"  # Replace with your API key
+GEMINI_API_KEY = ""  # Replace with your API key
 
 class CodeReviewer:
     def __init__(self):
